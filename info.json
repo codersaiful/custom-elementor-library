@@ -1,0 +1,96 @@
+{
+    "timestamp": 1561218920,
+    "upgrade_notice": {
+        "version": "2.0.1",
+        "message": "",
+        "update_link": ""
+    },
+    "library": {
+        "types_data": {
+            "block": {
+                "categories": [
+                    "404 page",
+                    "about",
+                    "archive",
+                    "call to action",
+                    "clients",
+                    "contact",
+                    "faq",
+                    "features",
+                    "footer",
+                    "header",
+                    "hero",
+                    "portfolio",
+                    "pricing",
+                    "product archive",
+                    "services",
+                    "single page",
+                    "single post",
+                    "single product",
+                    "stats",
+                    "subscribe",
+                    "team",
+                    "testimonials"
+                ]
+            },
+            "popup": {
+                "categories": [
+                    "bottom bar",
+                    "classic",
+                    "fly-in",
+                    "full screen",
+                    "hello bar",
+                    "slide-in"
+                ]
+            }
+        },
+        "categories": "[\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\"]",
+        "templates": [
+            {
+                "id": "2",
+                "title": "Hero 1",
+                "thumbnail": "http://localhost/projects/custom-elementor-library-dummy-api/images/cover.jpg",
+                "tmpl_created": "1520443695",
+                "author": "Elementor",
+                "url": "https://library.elementor.com/blocks/hero-1/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview",
+                "type": "block",
+                "subtype": "hero",
+                "tags": "[\"hero\"]",
+                "menu_order": "0",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
+            },
+            {
+                "id": "1",
+                "title": "Hero UI Kit",
+                "thumbnail": "http://localhost/projects/custom-elementor-library-dummy-api/images/Screenshot_1.png",
+                "tmpl_created": "1475067229",
+                "author": "Elementor",
+                "url": "https://library.elementor.com/hero-ui-kit/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview",
+                "type": "page",
+                "subtype": "page",
+                "tags": "[]",
+                "menu_order": "0",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
+            },
+            {
+                "id": "3",
+                "title": "Hero UI Kit",
+                "thumbnail": "http://localhost/projects/custom-elementor-library-dummy-api/images/Screenshot_1.png",
+                "tmpl_created": "1475067229",
+                "author": "Elementor",
+                "url": "https://library.elementor.com/hero-ui-kit/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview",
+                "type": "page",
+                "subtype": "page",
+                "tags": "[]",
+                "menu_order": "0",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
+            },
+        ]
+    }
+}
